@@ -8,9 +8,9 @@ const Footer = () => {
       <footer class="footer-distributed">
         <div class="footer-left">
           <h3>
-            MoviesLelo<span> by Seenu</span>
+            MoviesCards<span> by Seenu</span>
           </h3>
-          <p class="footer-company-name">copyright &copy; movieslelo.com</p>
+          <p class="footer-company-name">copyright &copy; moviescards.com</p>
         </div>
       </footer>
     </div>
